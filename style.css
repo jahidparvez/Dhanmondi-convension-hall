@@ -2,3 +2,10 @@ body{
     font-family: 'Mochiy Pop P One', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
+/* nav part  */
+.nav-colour{
+    background-color: #130041;
+}
+.nav-head{
+    font-size: 13px;
+}
